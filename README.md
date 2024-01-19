@@ -15,3 +15,5 @@ Purpose
 this is just a readme file !
 ## Repository purpose
 
+## Getting started
+To get start just clone the repository
